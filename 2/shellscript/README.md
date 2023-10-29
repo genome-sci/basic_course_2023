@@ -161,7 +161,7 @@ echoの前に2スペース入れたが、if文と同様、見栄え以外で特�
 seqcount.sh
 ```
 for i in *.fasta;do
-v=`grep -c '>' "$i"`
+v=`grep -c '^>' "$i"`
 echo $i $v
 done
 
