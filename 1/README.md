@@ -5,6 +5,7 @@
 
 講義でははじめに遺伝研スパコンの利用方法や接続方法等を概説したのち、実際にスパコンに接続しコマンド操作の練習を行います。
 
+[事前準備資料](https://quill-firewall-6a7.notion.site/479dfcb223a940e88ab632be2645e45e) (外部ページ)
 
 スライド資料 [スライド_遺伝研スパコン概要.pdf](https://github.com/genome-sci/basic_course_2023/blob/main/1/スライド_遺伝研スパコン概要.pdf)
 
